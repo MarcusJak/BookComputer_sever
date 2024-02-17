@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAALEEo6fEZYEWy3vWZd1MfqwAAAAACAAAAAAAQZgAAAAEAACAAAABeETusR00kVAbl/q/W9JRyUr5pZpQZPmQ/zyjP0lhVAgAAAAAOgAAAAAIAACAAAADYCOK2J3Pko75DPZudk6k+srVmTB36OpdDzxAWbh1CAoAAAADjivl3ZhY8PvjQmUUYEXUUGCkdKyki/+5nOn+XCwtfPr+PsxqsJC03JboyzOpjFPpvtdL36DovAqUn3KJ2BeP0R48m4VwEnyS+7/dzwg9iJMxrqKoF5UwVoFQ5RpPHIpvKxSbqGeD6DgSlhLM1fmjIct7MmwdQI8Scg99BYdPG1UAAAADlQWNdlSxnEwOhB4LGuUWvCjHats8lL09MS0f+jaBVvHPg3C3bVXMl0DNbkT+DVp8461f+zFaIsESPPlnR2sSu</EncryptedPassword>
+    <History>True|2023-02-24T18:12:19.4670511Z;True|2023-02-23T19:26:41.0856524+01:00;True|2023-02-23T15:13:11.9386210+01:00;True|2023-02-23T14:55:52.9581404+01:00;True|2023-02-22T16:46:30.8816947+01:00;True|2023-02-22T10:32:00.6393876+01:00;True|2023-02-22T10:24:25.8245788+01:00;True|2023-02-22T10:21:32.1349717+01:00;True|2023-02-22T10:20:01.5042071+01:00;True|2023-02-22T10:15:07.4794640+01:00;True|2023-02-20T18:32:25.6720101+01:00;True|2023-02-20T17:30:45.2151377+01:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ConnectionString">
+      <Value>Data Source=tcp:exjobbserver.database.windows.net,1433%3bInitial Catalog=ExjobbDatabas%3bUser Id=exjobb%40exjobbserver%3bPassword=Marcsu2000</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

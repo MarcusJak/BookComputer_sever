@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "mssql2": {
+      "restored": true,
+      "restoreTime": "2023-02-22T09:14:25.0683139Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2023-04-19T10:37:42.9506145Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2023-02-22T09:14:24.0025345Z"
+    }
+  },
+  "parameters": {
+    "mssql2.resourceGroupName": {
+      "Name": "mssql2.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "ExjobbResursgrupp"
+    },
+    "mssql2.subscriptionId": {
+      "Name": "mssql2.subscriptionId",
+      "Type": "subscription",
+      "Value": "c86bf183-aff9-477a-93ae-6c8b3970fbfd"
+    }
+  }
+}
